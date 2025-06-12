@@ -1,4 +1,4 @@
-# FiveM-Case-Opening
+# FiveM Case Opening
 
 Standalone, highly customizable case opening resource.
 
